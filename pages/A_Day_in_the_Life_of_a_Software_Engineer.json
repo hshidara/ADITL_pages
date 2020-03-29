@@ -1,0 +1,15 @@
+{
+    'date':"3/29/2020",
+    'tags':["introduction", "software engineering"],
+    'author':"Hide Shidara",
+    'location':"San Francisco, CA",
+    'title':"A Day in the Life of a Software Engineer",
+    'header_image':"A_Day_in_the_Life_of_a_Software_Engineer_header.jpg",    
+    'header_image_caption':"~ 60% of my actual day",
+    'content':[
+        {
+            'type':"text",
+            'data':"My name is Hide and I work in San Francisco as a software engineer. This blog will be an attempt to show you all aspects of being a software engineer and a struggling young adult’s life in the epicenter of the technology movement. I’ll show you the wonderful, cruel world of tech, all the good and the bad parts in an attempt to explain to you why you should or shouldn’t go into tech. This is a day in the life of a software engineer..."
+        }
+    ]
+}
